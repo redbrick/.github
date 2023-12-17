@@ -1,7 +1,7 @@
 # Redbrick - DCU's Networking Society
 
 <p align="center">
-    <img src="./brick.png" />
+    <img src="https://github.com/redbrick/.github/raw/master/profile/brick.png" />
 </p>
 
 [Redbrick](https://redbrick.dcu.ie) is DCU's Networking Society. We are a group of students who are interested in all things tech,
